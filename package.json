@@ -1,6 +1,6 @@
 {
 	"name": "vue-circle-progress",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A circle progress component for vue 2. Forked from v-circle.",
 	"main": "circle-progress.vue",
 	"scripts": {
